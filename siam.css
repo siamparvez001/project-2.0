@@ -72,3 +72,36 @@ p{
     border-radius: 20px;
     box-shadow: 0 0 20px 5px black;
 }
+.last{
+    text-align: center;
+    padding:0px 25%;
+}
+.hea4{
+    font-size: 30px;
+}
+.parent{
+    display: flex;
+    align-items: center;
+    
+    
+}
+
+h5{
+    font-size: 35px;
+}
+.prt1{
+    box-shadow: 10px 5px 49px black;
+    margin: 2%;
+    align-items: center;
+    padding:50px;
+
+    border-left: 7px solid;
+    border-image: linear-gradient(cyan,blue);
+    border-image-slice: 1;
+    border-radius: 0 20px 50px 0;
+}
+.fot{
+    text-align: center;
+    padding: 50px 0px;
+    font-size: 20px;
+}
